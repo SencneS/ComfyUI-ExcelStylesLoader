@@ -1,3 +1,5 @@
+ComfyUI Styles loader (Excel Edition)
+
 Created for Ideogram 4 Settings Node
 
 \# ComfyUI Excel Styles Loader
