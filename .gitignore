@@ -1,0 +1,13 @@
+# Python caches
+__pycache__/
+*.py[cod]
+*$*.py
+
+# Excel file locks and local test sheet data
+~$*.xlsx
+styles.xlsx
+
+# IDE or OS junk
+.DS_Store
+.vscode/
+.idea/
