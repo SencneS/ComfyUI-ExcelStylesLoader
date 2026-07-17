@@ -22,13 +22,17 @@ I have tags for each setting ID = Ideogram4, K2 = Krea2. (I might put them in se
 
 \### Method 1: Manual Git Clone
 
-1\. Open your terminal or command prompt.
+1\. Open your terminal or command prompt in your ComfyUI folder
 
-2\. Navigate to your ComfyUI custom nodes path:
+2\. cd ComfyUI/custom\_nodes
 
-&#x20;  ```bash
+3\. git clone https://github.com/SencneS/ComfyUI-ExcelStylesLoader.git
 
-&#x20;  cd ComfyUI/custom\_nodes
+4\. cd ComfyUI-ExcelStylesLoader
+
+5\. pip instal -r requirements.txt
+
+6\. Restart ComfyIU
 
 \### Method 2: Install via ComfyUI Manager.
 
@@ -46,3 +50,4 @@ You don't need to use this for Styles. Someone reached out to me telling me they
 Enjoy.
 
 p.s. Yeah I suck at GITHubbing, I'm not a coder, everything about this was created by Vibe Coding with Gemini :)
+So I don't have a pretty ReadMe LOL
