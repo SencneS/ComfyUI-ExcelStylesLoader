@@ -30,7 +30,7 @@ I have tags for each setting ID = Ideogram4, K2 = Krea2. (I might put them in se
 
 4\. cd ComfyUI-ExcelStylesLoader
 
-5\. pip instal -r requirements.txt
+5\. pip install -r requirements.txt
 
 6\. Restart ComfyIU
 
